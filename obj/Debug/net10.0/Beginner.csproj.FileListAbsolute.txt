@@ -1,0 +1,15 @@
+/Users/aaronfoster/Desktop/cs_code/Beginner/bin/Debug/net10.0/Beginner
+/Users/aaronfoster/Desktop/cs_code/Beginner/bin/Debug/net10.0/Beginner.deps.json
+/Users/aaronfoster/Desktop/cs_code/Beginner/bin/Debug/net10.0/Beginner.runtimeconfig.json
+/Users/aaronfoster/Desktop/cs_code/Beginner/bin/Debug/net10.0/Beginner.dll
+/Users/aaronfoster/Desktop/cs_code/Beginner/bin/Debug/net10.0/Beginner.pdb
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.AssemblyInfoInputs.cache
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.AssemblyInfo.cs
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.csproj.CoreCompileInputs.cache
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.sourcelink.json
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.dll
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/refint/Beginner.dll
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.pdb
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/Beginner.genruntimeconfig.cache
+/Users/aaronfoster/Desktop/cs_code/Beginner/obj/Debug/net10.0/ref/Beginner.dll
